@@ -16,8 +16,7 @@ Android SDK 29
 SQLite
 
 ## 应用实例
-<img src="doc/page_1.png" width="226px" height="400px" alt="">
-<img src="doc/page_3.png" width="226px" height="400px" alt="">
-<img src="doc/page_2.png" width="226px" height="400px" alt="">
-<img src="doc/page_4.png" width="226px" height="400px" alt="">
-
+<img src="doc/page_1.png" width="226px" height="350px" alt="">
+<img src="doc/page_3.png" width="226px" height="350px" alt="">
+<img src="doc/page_2.png" width="226px" height="350px" alt="">
+<img src="doc/page_4.png" width="226px" height="350px" alt="">
