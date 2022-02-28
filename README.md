@@ -18,7 +18,7 @@ SQLite
 
 ## 应用实例
 
-<table border="false">
+<table border="0">
 <tr>
   <td>
     <img src="docs/page_1.png" width="291px" height="450px" alt="">
