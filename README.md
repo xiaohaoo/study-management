@@ -18,8 +18,8 @@ SQLite
 
 ## 应用实例
 
-<img src="docs/page_1.png" width="291px" height="450px" alt=""> | <img src="docs/page_3.png" width="291px" height="450px" alt="">
-<img src="docs/page_2.png" width="291px" height="450px" alt=""> | <img src="docs/page_4.png" width="291px" height="450px" alt="">
+<img src="docs/page_1.png" width="291px" height="450px" alt=""> <img src="docs/page_3.png" width="291px" height="450px" alt="">
+<img src="docs/page_2.png" width="291px" height="450px" alt=""> <img src="docs/page_4.png" width="291px" height="450px" alt="">
 
 
 
